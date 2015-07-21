@@ -2,3 +2,4 @@ git init
 git add
 git commit -m “”
 git status
+git init 把一个文件夹变成git管理
