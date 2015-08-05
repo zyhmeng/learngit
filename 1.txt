@@ -5,3 +5,4 @@ git status
 git init 把一个文件夹变成git管理
 验证git管理的是文件的修改
 再次修改git
+成功上传到github  
